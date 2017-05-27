@@ -1,0 +1,4 @@
+[radarr]
+title=Radarr
+description=Radarr is an independent fork of Sonarr reworked for automatically downloading movies via Usenet and BitTorrent.
+ports=7878/tcp|7878/udp

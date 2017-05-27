@@ -1,0 +1,4 @@
+[nzbget]
+title=NzbGet
+description=NZBGet is a binary downloader, which downloads files from Usenet based on information given in nzb-files.
+ports=6789/tcp|6789/udp

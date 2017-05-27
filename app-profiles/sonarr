@@ -1,0 +1,4 @@
+[sonarr]
+title=Sonarr
+description=Sonarr is a PVR for Usenet and BitTorrent users
+ports=8989/tcp|8989/udp

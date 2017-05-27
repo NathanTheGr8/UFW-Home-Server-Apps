@@ -1,0 +1,4 @@
+[plexmediaserver]
+title=Plex Media Server
+description=The Plex Media Server is smart software that makes playing Movies, TV Shows and other media on your computer simple
+ports=32400/tcp|1900/udp|32469/udp|5353/udp

@@ -1,0 +1,4 @@
+[deluge]
+title=Deluge
+description=Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
+ports=8112/tcp|8112/udp
