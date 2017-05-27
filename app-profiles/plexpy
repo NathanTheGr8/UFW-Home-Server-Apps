@@ -1,0 +1,4 @@
+[plexpy]
+title=PlexPy
+description=Stats about your plex media server
+ports=8181/tcp|8181/udp
