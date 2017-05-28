@@ -1,0 +1,4 @@
+[unifi-video]
+title=Unifi Video
+description=Unifi Video is an NVR for recording your security camera footage to
+ports=7080/tcp|7443/tcp|7445/tcp|7446/tcp|7447/tcp|6666/tcp|7004/udp|7080/tcp:wq
