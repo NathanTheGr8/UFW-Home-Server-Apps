@@ -1,0 +1,4 @@
+[glances]
+title=Glances
+description=Performacen and other stats about your server
+ports=61208/tcp|61208/udp
