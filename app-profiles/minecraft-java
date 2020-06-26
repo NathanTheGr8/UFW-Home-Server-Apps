@@ -1,0 +1,4 @@
+[minecraft-java]
+title=Minecraft Java Game Server
+description=Minecraft is a Lego style adventure game
+ports=25565/tcp|25565/udp

@@ -1,0 +1,4 @@
+[factorio]
+title=Factorio Game Server
+description=Factorio is a construction and management game focused on resource-gathering with real-time strategy and survival elements.
+ports=27015/tcp|34197/udp

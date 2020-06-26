@@ -1,0 +1,4 @@
+[minecraft-bedrock]
+title=Minecraft Bedrock Game Server
+description=Minecraft is a Lego style adventure game
+ports=19132/tcp
